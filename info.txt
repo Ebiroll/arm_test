@@ -1,0 +1,17 @@
+
+# Some basic test projects for cheap arm boards
+
+
+https://stm32-base.org/boards/
+
+STM32F103RET6
+
+Various pill boards
+http://uglyduck.vajn.icu/ep/archive/2020/11/STM32__Pill__boards.html
+
+
+We use this one here,
+https://stm32-base.org/boards/STM32F411CEU6-WeAct-Black-Pill-V2.0
+
+https://github.com/WeActStudio/WeActStudio.MiniSTM32F4x1
+
