@@ -1,0 +1,5 @@
+stm32f411CEU6_blackpill/ioc/build
+stm32f411CEU6_blackpill/ioc/Core
+stm32f411CEU6_blackpill/ioc/Drivers
+stm32f411CEU6_blackpill/ioc/Middlewares
+stm32f411CEU6_blackpill/ioc/USB_DEVICE
